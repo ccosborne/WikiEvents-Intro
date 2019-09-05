@@ -6,4 +6,4 @@ This thesis investigated how differences in both the content and structure of "c
 
 Python script to scrape hyperlink data from Wikipedia developed by @pgilders (forked)
 
-Other Python scripts developed by @ccosborne, including to: mine Wikipedia databases, mine Wikipedia articles and analyse networks using Python NetworkX.
+Python scripts in Jupyter Notebooks developed by @ccosborne, including to: mine Wikipedia databases, mine Wikipedia articles and analyse networks using Python NetworkX.
