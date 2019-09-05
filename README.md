@@ -6,7 +6,8 @@ The thesis investigated differences in "crowdsourced history" between Wikipedia 
 
 Python script to scrape hyperlink data developed by @pgilders
 
-Other Python scripts developed by @ccosborne:
+Other Python scripts developed by @ccosborne, including to:
+
 – mine article data stored in Wikipedia databases, e.g. editors and edits
 - mine text of articles, e.g. extract every citation or date
 - analyse hyperlink networks with NetworkX
