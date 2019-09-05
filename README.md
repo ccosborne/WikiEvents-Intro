@@ -1,4 +1,4 @@
-# Wikipedia – Ego Hyperlink Network Analysis of Selected Articles
+# Wikipedia Network Analysis
 
 Python scripts used to collect and analyse Wikipedia data for my MSc thesis at the Oxford Internet Institute. 
 
