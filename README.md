@@ -12,3 +12,5 @@ Python scripts in Jupyter Notebooks developed by @ccosborne, including to:
  - analyse hyperlink networks
  - collect attributes (i.e. properties) for all articles in hyperlink networks (for correlation analysis and visualisation)
  - collect dates in articles in network to visualise aggregate timeline of thousands of articles
+
+Please note these are not all the scripts used in the research but these cover a large portion of the work done. Other work included comparison of hyperlink networks via Jaccard Similarity, analysis of edit wars in articles, correlation analysis of attributes and centrality values for articles, visualisation of networks (with Gephi) and so on. If you would like to read the thesis, feel free to contact me at: caileanosborne@gmail.com
