@@ -8,8 +8,6 @@ Python script to scrape hyperlink data developed by @pgilders
 
 Other Python scripts developed by @ccosborne, including to:
 
-
-– mine article data stored in Wikipedia databases, e.g. editors and edits
-- mine text of articles, e.g. extract every citation or date
-- analyse hyperlink networks with NetworkX
-- visualise distributions with Python Seaborn
+– mine article data in databases, e.g. editors and edits
+- mine text of articles, e.g. extract citations or dates
+- analyse centrality in hyperlink networks with NetworkX
