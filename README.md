@@ -9,7 +9,7 @@ Python script to scrape hyperlink data from Wikipedia developed by @pgilders (fo
 Python scripts in Jupyter Notebooks developed by @ccosborne, including to:
 
  - collect properties of single articles and compare such properties between language editions
- - analyse hyperlink networks
+ - analyse hyperlink networks, e.g. network structure, degree distribution, components, PageRank centrality, etc.
  - collect attributes (i.e. properties) for all articles in hyperlink networks (for correlation analysis and visualisation)
  - collect dates in articles in network to visualise aggregate timeline of thousands of articles
 
